@@ -1,0 +1,15 @@
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\OOPCase1.exe
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\OOPCase1.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\OOPCase1.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\OOPCase1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\OOPCase1.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.csproj.AssemblyReference.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\refint\OOPCase1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\OOPCase1.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\ref\OOPCase1.dll

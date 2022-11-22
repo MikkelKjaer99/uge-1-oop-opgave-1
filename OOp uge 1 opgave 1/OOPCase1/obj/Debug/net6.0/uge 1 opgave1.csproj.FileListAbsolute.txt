@@ -1,0 +1,30 @@
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.exe
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.csproj.AssemblyReference.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\refint\uge 1 opgave1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOPCase1-master\OOPCase1\obj\Debug\net6.0\ref\uge 1 opgave1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.exe
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.deps.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.runtimeconfig.json
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\bin\Debug\net6.0\uge 1 opgave1.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.csproj.AssemblyReference.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.AssemblyInfoInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.AssemblyInfo.cs
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.csproj.CoreCompileInputs.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\refint\uge 1 opgave1.dll
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.pdb
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\uge 1 opgave1.genruntimeconfig.cache
+C:\Users\mikke\OneDrive\Skrivebord\Microsoft Visual Opgaver\OOp uge 1 opgave 1\OOPCase1\obj\Debug\net6.0\ref\uge 1 opgave1.dll
